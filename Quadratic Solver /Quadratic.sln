@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quadratic", "Quadratic\Quadratic.csproj", "{30D58CB0-0235-48BA-8176-E4929AFB0643}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quadratic.Tests", "Quadratic.Tests\Quadratic.Tests.csproj", "{5BFC989C-0A83-46D0-980D-AE8E5C78C44B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30D58CB0-0235-48BA-8176-E4929AFB0643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D58CB0-0235-48BA-8176-E4929AFB0643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D58CB0-0235-48BA-8176-E4929AFB0643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D58CB0-0235-48BA-8176-E4929AFB0643}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BFC989C-0A83-46D0-980D-AE8E5C78C44B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BFC989C-0A83-46D0-980D-AE8E5C78C44B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BFC989C-0A83-46D0-980D-AE8E5C78C44B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BFC989C-0A83-46D0-980D-AE8E5C78C44B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16390750-5734-4C32-B5B9-FAFECE2B643B}
+	EndGlobalSection
+EndGlobal

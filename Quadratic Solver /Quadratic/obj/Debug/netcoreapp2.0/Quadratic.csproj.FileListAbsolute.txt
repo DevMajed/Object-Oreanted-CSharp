@@ -1,0 +1,34 @@
+/Users/majed/MyGit/ece264-sp2020-quadraticfull-MajedMesh/Quadratic/bin/Debug/netcoreapp2.0/Quadratic.deps.json
+/Users/majed/MyGit/ece264-sp2020-quadraticfull-MajedMesh/Quadratic/bin/Debug/netcoreapp2.0/Quadratic.runtimeconfig.json
+/Users/majed/MyGit/ece264-sp2020-quadraticfull-MajedMesh/Quadratic/bin/Debug/netcoreapp2.0/Quadratic.runtimeconfig.dev.json
+/Users/majed/MyGit/ece264-sp2020-quadraticfull-MajedMesh/Quadratic/bin/Debug/netcoreapp2.0/Quadratic.dll
+/Users/majed/MyGit/ece264-sp2020-quadraticfull-MajedMesh/Quadratic/bin/Debug/netcoreapp2.0/Quadratic.pdb
+/Users/majed/MyGit/ece264-sp2020-quadraticfull-MajedMesh/Quadratic/obj/Debug/netcoreapp2.0/Quadratic.csprojAssemblyReference.cache
+/Users/majed/MyGit/ece264-sp2020-quadraticfull-MajedMesh/Quadratic/obj/Debug/netcoreapp2.0/Quadratic.AssemblyInfoInputs.cache
+/Users/majed/MyGit/ece264-sp2020-quadraticfull-MajedMesh/Quadratic/obj/Debug/netcoreapp2.0/Quadratic.AssemblyInfo.cs
+/Users/majed/MyGit/ece264-sp2020-quadraticfull-MajedMesh/Quadratic/obj/Debug/netcoreapp2.0/Quadratic.dll
+/Users/majed/MyGit/ece264-sp2020-quadraticfull-MajedMesh/Quadratic/obj/Debug/netcoreapp2.0/Quadratic.pdb
+/Users/majedmesh/Documents/GitHub/C#/ece264-sp2020-quadraticfull-MajedMesh/Quadratic/bin/Debug/netcoreapp2.0/Quadratic.deps.json
+/Users/majedmesh/Documents/GitHub/C#/ece264-sp2020-quadraticfull-MajedMesh/Quadratic/bin/Debug/netcoreapp2.0/Quadratic.runtimeconfig.json
+/Users/majedmesh/Documents/GitHub/C#/ece264-sp2020-quadraticfull-MajedMesh/Quadratic/bin/Debug/netcoreapp2.0/Quadratic.runtimeconfig.dev.json
+/Users/majedmesh/Documents/GitHub/C#/ece264-sp2020-quadraticfull-MajedMesh/Quadratic/bin/Debug/netcoreapp2.0/Quadratic.dll
+/Users/majedmesh/Documents/GitHub/C#/ece264-sp2020-quadraticfull-MajedMesh/Quadratic/bin/Debug/netcoreapp2.0/Quadratic.pdb
+/Users/majedmesh/Documents/GitHub/C#/ece264-sp2020-quadraticfull-MajedMesh/Quadratic/obj/Debug/netcoreapp2.0/Quadratic.csprojAssemblyReference.cache
+/Users/majedmesh/Documents/GitHub/C#/ece264-sp2020-quadraticfull-MajedMesh/Quadratic/obj/Debug/netcoreapp2.0/Quadratic.AssemblyInfoInputs.cache
+/Users/majedmesh/Documents/GitHub/C#/ece264-sp2020-quadraticfull-MajedMesh/Quadratic/obj/Debug/netcoreapp2.0/Quadratic.AssemblyInfo.cs
+/Users/majedmesh/Documents/GitHub/C#/ece264-sp2020-quadraticfull-MajedMesh/Quadratic/obj/Debug/netcoreapp2.0/Quadratic.csproj.CoreCompileInputs.cache
+/Users/majedmesh/Documents/GitHub/C#/ece264-sp2020-quadraticfull-MajedMesh/Quadratic/obj/Debug/netcoreapp2.0/Quadratic.dll
+/Users/majedmesh/Documents/GitHub/C#/ece264-sp2020-quadraticfull-MajedMesh/Quadratic/obj/Debug/netcoreapp2.0/Quadratic.pdb
+/Users/majedmesh/Documents/GitHub/C#/ece264-sp2020-quadraticfull-MajedMesh/Quadratic/obj/Debug/netcoreapp2.0/Quadratic.genruntimeconfig.cache
+/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic/bin/Debug/netcoreapp2.0/Quadratic.deps.json
+/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic/bin/Debug/netcoreapp2.0/Quadratic.runtimeconfig.json
+/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic/bin/Debug/netcoreapp2.0/Quadratic.runtimeconfig.dev.json
+/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic/bin/Debug/netcoreapp2.0/Quadratic.dll
+/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic/bin/Debug/netcoreapp2.0/Quadratic.pdb
+/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic/obj/Debug/netcoreapp2.0/Quadratic.csprojAssemblyReference.cache
+/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic/obj/Debug/netcoreapp2.0/Quadratic.AssemblyInfoInputs.cache
+/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic/obj/Debug/netcoreapp2.0/Quadratic.AssemblyInfo.cs
+/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic/obj/Debug/netcoreapp2.0/Quadratic.csproj.CoreCompileInputs.cache
+/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic/obj/Debug/netcoreapp2.0/Quadratic.dll
+/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic/obj/Debug/netcoreapp2.0/Quadratic.pdb
+/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic/obj/Debug/netcoreapp2.0/Quadratic.genruntimeconfig.cache

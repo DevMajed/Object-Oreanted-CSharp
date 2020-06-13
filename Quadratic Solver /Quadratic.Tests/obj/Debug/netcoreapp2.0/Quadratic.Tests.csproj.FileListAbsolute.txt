@@ -1,0 +1,52 @@
+/Users/majed/MyGit/ece264-sp2020-quadraticfull-MajedMesh/Quadratic.Tests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/majed/MyGit/ece264-sp2020-quadraticfull-MajedMesh/Quadratic.Tests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/majed/MyGit/ece264-sp2020-quadraticfull-MajedMesh/Quadratic.Tests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/majed/MyGit/ece264-sp2020-quadraticfull-MajedMesh/Quadratic.Tests/bin/Debug/netcoreapp2.0/Quadratic.Tests.deps.json
+/Users/majed/MyGit/ece264-sp2020-quadraticfull-MajedMesh/Quadratic.Tests/bin/Debug/netcoreapp2.0/Quadratic.Tests.runtimeconfig.json
+/Users/majed/MyGit/ece264-sp2020-quadraticfull-MajedMesh/Quadratic.Tests/bin/Debug/netcoreapp2.0/Quadratic.Tests.runtimeconfig.dev.json
+/Users/majed/MyGit/ece264-sp2020-quadraticfull-MajedMesh/Quadratic.Tests/bin/Debug/netcoreapp2.0/Quadratic.Tests.dll
+/Users/majed/MyGit/ece264-sp2020-quadraticfull-MajedMesh/Quadratic.Tests/bin/Debug/netcoreapp2.0/Quadratic.Tests.pdb
+/Users/majed/MyGit/ece264-sp2020-quadraticfull-MajedMesh/Quadratic.Tests/bin/Debug/netcoreapp2.0/Quadratic.dll
+/Users/majed/MyGit/ece264-sp2020-quadraticfull-MajedMesh/Quadratic.Tests/bin/Debug/netcoreapp2.0/Quadratic.pdb
+/Users/majed/MyGit/ece264-sp2020-quadraticfull-MajedMesh/Quadratic.Tests/obj/Debug/netcoreapp2.0/Quadratic.Tests.csprojAssemblyReference.cache
+/Users/majed/MyGit/ece264-sp2020-quadraticfull-MajedMesh/Quadratic.Tests/obj/Debug/netcoreapp2.0/Quadratic.Tests.AssemblyInfoInputs.cache
+/Users/majed/MyGit/ece264-sp2020-quadraticfull-MajedMesh/Quadratic.Tests/obj/Debug/netcoreapp2.0/Quadratic.Tests.AssemblyInfo.cs
+/Users/majed/MyGit/ece264-sp2020-quadraticfull-MajedMesh/Quadratic.Tests/obj/Debug/netcoreapp2.0/Quadratic.Tests.csproj.CopyComplete
+/Users/majed/MyGit/ece264-sp2020-quadraticfull-MajedMesh/Quadratic.Tests/obj/Debug/netcoreapp2.0/Quadratic.Tests.dll
+/Users/majed/MyGit/ece264-sp2020-quadraticfull-MajedMesh/Quadratic.Tests/obj/Debug/netcoreapp2.0/Quadratic.Tests.pdb
+/Users/majedmesh/Documents/GitHub/C#/ece264-sp2020-quadraticfull-MajedMesh/Quadratic.Tests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/majedmesh/Documents/GitHub/C#/ece264-sp2020-quadraticfull-MajedMesh/Quadratic.Tests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/majedmesh/Documents/GitHub/C#/ece264-sp2020-quadraticfull-MajedMesh/Quadratic.Tests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/majedmesh/Documents/GitHub/C#/ece264-sp2020-quadraticfull-MajedMesh/Quadratic.Tests/bin/Debug/netcoreapp2.0/Quadratic.Tests.deps.json
+/Users/majedmesh/Documents/GitHub/C#/ece264-sp2020-quadraticfull-MajedMesh/Quadratic.Tests/bin/Debug/netcoreapp2.0/Quadratic.Tests.runtimeconfig.json
+/Users/majedmesh/Documents/GitHub/C#/ece264-sp2020-quadraticfull-MajedMesh/Quadratic.Tests/bin/Debug/netcoreapp2.0/Quadratic.Tests.runtimeconfig.dev.json
+/Users/majedmesh/Documents/GitHub/C#/ece264-sp2020-quadraticfull-MajedMesh/Quadratic.Tests/bin/Debug/netcoreapp2.0/Quadratic.Tests.dll
+/Users/majedmesh/Documents/GitHub/C#/ece264-sp2020-quadraticfull-MajedMesh/Quadratic.Tests/bin/Debug/netcoreapp2.0/Quadratic.Tests.pdb
+/Users/majedmesh/Documents/GitHub/C#/ece264-sp2020-quadraticfull-MajedMesh/Quadratic.Tests/bin/Debug/netcoreapp2.0/Quadratic.dll
+/Users/majedmesh/Documents/GitHub/C#/ece264-sp2020-quadraticfull-MajedMesh/Quadratic.Tests/bin/Debug/netcoreapp2.0/Quadratic.pdb
+/Users/majedmesh/Documents/GitHub/C#/ece264-sp2020-quadraticfull-MajedMesh/Quadratic.Tests/obj/Debug/netcoreapp2.0/Quadratic.Tests.csprojAssemblyReference.cache
+/Users/majedmesh/Documents/GitHub/C#/ece264-sp2020-quadraticfull-MajedMesh/Quadratic.Tests/obj/Debug/netcoreapp2.0/Quadratic.Tests.AssemblyInfoInputs.cache
+/Users/majedmesh/Documents/GitHub/C#/ece264-sp2020-quadraticfull-MajedMesh/Quadratic.Tests/obj/Debug/netcoreapp2.0/Quadratic.Tests.AssemblyInfo.cs
+/Users/majedmesh/Documents/GitHub/C#/ece264-sp2020-quadraticfull-MajedMesh/Quadratic.Tests/obj/Debug/netcoreapp2.0/Quadratic.Tests.csproj.CoreCompileInputs.cache
+/Users/majedmesh/Documents/GitHub/C#/ece264-sp2020-quadraticfull-MajedMesh/Quadratic.Tests/obj/Debug/netcoreapp2.0/Quadratic.Tests.csproj.CopyComplete
+/Users/majedmesh/Documents/GitHub/C#/ece264-sp2020-quadraticfull-MajedMesh/Quadratic.Tests/obj/Debug/netcoreapp2.0/Quadratic.Tests.dll
+/Users/majedmesh/Documents/GitHub/C#/ece264-sp2020-quadraticfull-MajedMesh/Quadratic.Tests/obj/Debug/netcoreapp2.0/Quadratic.Tests.pdb
+/Users/majedmesh/Documents/GitHub/C#/ece264-sp2020-quadraticfull-MajedMesh/Quadratic.Tests/obj/Debug/netcoreapp2.0/Quadratic.Tests.genruntimeconfig.cache
+/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic.Tests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic.Tests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic.Tests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic.Tests/bin/Debug/netcoreapp2.0/Quadratic.Tests.deps.json
+/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic.Tests/bin/Debug/netcoreapp2.0/Quadratic.Tests.runtimeconfig.json
+/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic.Tests/bin/Debug/netcoreapp2.0/Quadratic.Tests.runtimeconfig.dev.json
+/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic.Tests/bin/Debug/netcoreapp2.0/Quadratic.Tests.dll
+/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic.Tests/bin/Debug/netcoreapp2.0/Quadratic.Tests.pdb
+/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic.Tests/bin/Debug/netcoreapp2.0/Quadratic.dll
+/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic.Tests/bin/Debug/netcoreapp2.0/Quadratic.pdb
+/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic.Tests/obj/Debug/netcoreapp2.0/Quadratic.Tests.csprojAssemblyReference.cache
+/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic.Tests/obj/Debug/netcoreapp2.0/Quadratic.Tests.AssemblyInfoInputs.cache
+/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic.Tests/obj/Debug/netcoreapp2.0/Quadratic.Tests.AssemblyInfo.cs
+/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic.Tests/obj/Debug/netcoreapp2.0/Quadratic.Tests.csproj.CoreCompileInputs.cache
+/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic.Tests/obj/Debug/netcoreapp2.0/Quadratic.Tests.csproj.CopyComplete
+/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic.Tests/obj/Debug/netcoreapp2.0/Quadratic.Tests.dll
+/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic.Tests/obj/Debug/netcoreapp2.0/Quadratic.Tests.pdb
+/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic.Tests/obj/Debug/netcoreapp2.0/Quadratic.Tests.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/majedmesh/Documents/GitHub/C#/BasicCode/BasicCode/bin/Debug/netcoreapp3.1/BasicCode.deps.json
+/Users/majedmesh/Documents/GitHub/C#/BasicCode/BasicCode/bin/Debug/netcoreapp3.1/BasicCode.runtimeconfig.json
+/Users/majedmesh/Documents/GitHub/C#/BasicCode/BasicCode/bin/Debug/netcoreapp3.1/BasicCode.runtimeconfig.dev.json
+/Users/majedmesh/Documents/GitHub/C#/BasicCode/BasicCode/bin/Debug/netcoreapp3.1/BasicCode.dll
+/Users/majedmesh/Documents/GitHub/C#/BasicCode/BasicCode/bin/Debug/netcoreapp3.1/BasicCode.pdb
+/Users/majedmesh/Documents/GitHub/C#/BasicCode/BasicCode/obj/Debug/netcoreapp3.1/BasicCode.csprojAssemblyReference.cache
+/Users/majedmesh/Documents/GitHub/C#/BasicCode/BasicCode/obj/Debug/netcoreapp3.1/BasicCode.AssemblyInfoInputs.cache
+/Users/majedmesh/Documents/GitHub/C#/BasicCode/BasicCode/obj/Debug/netcoreapp3.1/BasicCode.AssemblyInfo.cs
+/Users/majedmesh/Documents/GitHub/C#/BasicCode/BasicCode/obj/Debug/netcoreapp3.1/BasicCode.csproj.CoreCompileInputs.cache
+/Users/majedmesh/Documents/GitHub/C#/BasicCode/BasicCode/obj/Debug/netcoreapp3.1/BasicCode.dll
+/Users/majedmesh/Documents/GitHub/C#/BasicCode/BasicCode/obj/Debug/netcoreapp3.1/BasicCode.pdb
+/Users/majedmesh/Documents/GitHub/C#/BasicCode/BasicCode/obj/Debug/netcoreapp3.1/BasicCode.genruntimeconfig.cache

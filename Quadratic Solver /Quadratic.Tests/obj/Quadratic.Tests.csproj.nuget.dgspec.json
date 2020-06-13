@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic.Tests/Quadratic.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic.Tests/Quadratic.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic.Tests/Quadratic.Tests.csproj",
+        "projectName": "Quadratic.Tests",
+        "projectPath": "/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic.Tests/Quadratic.Tests.csproj",
+        "packagesPath": "/Users/majedmesh/.nuget/packages/",
+        "outputPath": "/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/majedmesh/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic/Quadratic.csproj": {
+                "projectPath": "/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic/Quadratic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic/Quadratic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic/Quadratic.csproj",
+        "projectName": "Quadratic",
+        "projectPath": "/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic/Quadratic.csproj",
+        "packagesPath": "/Users/majedmesh/.nuget/packages/",
+        "outputPath": "/Users/majedmesh/Documents/GitHub/C#/Quadratic Full/Quadratic/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/majedmesh/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
