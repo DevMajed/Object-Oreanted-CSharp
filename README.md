@@ -1,4 +1,4 @@
-# Object Oreanted Programing with C# 
+# Object Oreanted Programing with C#  
 Here i will share some projects in C#. These were part of a sophomore object oreanted programing course that i took in UMASS.\
 Each file here contain a separate project.
 
